@@ -1,0 +1,32 @@
+body{
+background: rgb(146, 114, 172);/*cor de fundo da pagina*/
+font:normal 10pt Arial;
+
+}
+header{
+color: rgb(12, 12, 12);/*letra titulo vai ficar branco*/
+text-align: center;/*centralizando o texto dentro do section*/
+
+
+}
+section{
+    background: white;
+    border-radius: 10px; /*bordas arredondadas*/
+    padding: 15px;/*tamanho do espaço no section branco*/
+    width: 500px;/*largura da pagina*/
+    margin: auto;/*centralização do section branco*/
+    box-shadow: rgba(0, 0, 0, 0.246);
+
+}
+
+select#flista{
+    width: 150px;
+}
+
+
+footer{/* configuração do rodapé*/
+    color:rgb(10, 10, 10);
+    text-align: center;
+    font-style: italic;
+
+}
